@@ -49,7 +49,9 @@ Below is a graphical representation of the flowchart for the Article Summarizer 
    streamlit run app.py
    ```
 
-4. Replace YOUR_HUGGING_FACE
+4. Replace YOUR_HUGGING_FACE_API_HERE with your actual huggingface Access Token.
+
+
 ## Dependencies
 
 - Streamlit 0.89.0
