@@ -26,7 +26,7 @@ The Article Summarizer Python App is a web application built using the Streamlit
 
 Below is a graphical representation of the flowchart for the Article Summarizer Web App:
 
-![Article Summarizer Flowchart](article_summarizer_flowchart.png)
+![Article Summarizer Flowchart](article_summarizer_flowchart.jpg)
 
 ## Installation
 
