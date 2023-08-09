@@ -22,6 +22,12 @@ The Article Summarizer Python App is a web application built using the Streamlit
 4. The app generates a summary for the extracted paragraphs.
 5. Click the "Listen" button to listen to the summary.
 
+## Flowchart
+
+Below is a graphical representation of the flowchart for the Article Summarizer Web App:
+
+![Article Summarizer Flowchart](article_summarizer_flowchart.png)
+
 ## Installation
 
 1. Clone the repository:
@@ -43,6 +49,7 @@ The Article Summarizer Python App is a web application built using the Streamlit
    streamlit run app.py
    ```
 
+4. Replace YOUR_HUGGING_FACE
 ## Dependencies
 
 - Streamlit 0.89.0
