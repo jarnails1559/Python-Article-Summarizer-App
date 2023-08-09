@@ -27,7 +27,7 @@ The Article Summarizer Python App is a web application built using the Streamlit
 1. Clone the repository:
 
    ```bash
-   git clone (https://github.com/jarnails1559/Python-Article-Summarizer-App).git
+   git clone https://github.com/jarnails1559/Python-Article-Summarizer-App.git
    cd article-summarizer-app
    ```
 
